@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e635e4eb8554c470c9a0854c0246400",
+    "revision": "c9a07e4bde609724cfaa470445d98deb",
     "url": "/fire_coins/index.html"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fire_coins/static/js/4.82bc0ccf.chunk.js"
   },
   {
-    "revision": "41534e28c3343d2f383c",
-    "url": "/fire_coins/static/js/main.74ba9aaa.chunk.js"
+    "revision": "d68490c31a9b0b36eb30",
+    "url": "/fire_coins/static/js/main.dfb9a9a6.chunk.js"
   },
   {
     "revision": "ee3c265e8810c658ef88",
