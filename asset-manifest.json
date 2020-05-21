@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.js": "/fire_coins/static/js/main.98f662ca.chunk.js",
-    "main.js.map": "/fire_coins/static/js/main.98f662ca.chunk.js.map",
-    "runtime-main.js": "/fire_coins/static/js/runtime-main.35f42425.js",
-    "runtime-main.js.map": "/fire_coins/static/js/runtime-main.35f42425.js.map",
+    "main.js": "/fire_coins/static/js/main.de1d97bb.chunk.js",
+    "main.js.map": "/fire_coins/static/js/main.de1d97bb.chunk.js.map",
+    "runtime-main.js": "/fire_coins/static/js/runtime-main.25699b48.js",
+    "runtime-main.js.map": "/fire_coins/static/js/runtime-main.25699b48.js.map",
     "static/css/2.85b3d357.chunk.css": "/fire_coins/static/css/2.85b3d357.chunk.css",
-    "static/js/2.f2b92400.chunk.js": "/fire_coins/static/js/2.f2b92400.chunk.js",
-    "static/js/2.f2b92400.chunk.js.map": "/fire_coins/static/js/2.f2b92400.chunk.js.map",
-    "static/js/3.3a3419f3.chunk.js": "/fire_coins/static/js/3.3a3419f3.chunk.js",
-    "static/js/3.3a3419f3.chunk.js.map": "/fire_coins/static/js/3.3a3419f3.chunk.js.map",
-    "static/js/4.b5579c6c.chunk.js": "/fire_coins/static/js/4.b5579c6c.chunk.js",
-    "static/js/4.b5579c6c.chunk.js.map": "/fire_coins/static/js/4.b5579c6c.chunk.js.map",
+    "static/js/2.243b720b.chunk.js": "/fire_coins/static/js/2.243b720b.chunk.js",
+    "static/js/2.243b720b.chunk.js.map": "/fire_coins/static/js/2.243b720b.chunk.js.map",
+    "static/js/3.d6c84832.chunk.js": "/fire_coins/static/js/3.d6c84832.chunk.js",
+    "static/js/3.d6c84832.chunk.js.map": "/fire_coins/static/js/3.d6c84832.chunk.js.map",
+    "static/js/4.93d74a89.chunk.js": "/fire_coins/static/js/4.93d74a89.chunk.js",
+    "static/js/4.93d74a89.chunk.js.map": "/fire_coins/static/js/4.93d74a89.chunk.js.map",
     "index.html": "/fire_coins/index.html",
-    "precache-manifest.3d915c495bd23cc84fe08739b8b2cf9d.js": "/fire_coins/precache-manifest.3d915c495bd23cc84fe08739b8b2cf9d.js",
+    "precache-manifest.9955938745821bd0c42a8832fdfbd9aa.js": "/fire_coins/precache-manifest.9955938745821bd0c42a8832fdfbd9aa.js",
     "service-worker.js": "/fire_coins/service-worker.js",
     "static/css/2.85b3d357.chunk.css.map": "/fire_coins/static/css/2.85b3d357.chunk.css.map",
-    "static/js/2.f2b92400.chunk.js.LICENSE.txt": "/fire_coins/static/js/2.f2b92400.chunk.js.LICENSE.txt",
-    "static/js/3.3a3419f3.chunk.js.LICENSE.txt": "/fire_coins/static/js/3.3a3419f3.chunk.js.LICENSE.txt",
+    "static/js/2.243b720b.chunk.js.LICENSE.txt": "/fire_coins/static/js/2.243b720b.chunk.js.LICENSE.txt",
+    "static/js/3.d6c84832.chunk.js.LICENSE.txt": "/fire_coins/static/js/3.d6c84832.chunk.js.LICENSE.txt",
     "static/media/fire_coin.png": "/fire_coins/static/media/fire_coin.aec37865.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.35f42425.js",
+    "static/js/runtime-main.25699b48.js",
     "static/css/2.85b3d357.chunk.css",
-    "static/js/2.f2b92400.chunk.js",
-    "static/js/main.98f662ca.chunk.js"
+    "static/js/2.243b720b.chunk.js",
+    "static/js/main.de1d97bb.chunk.js"
   ]
 }
