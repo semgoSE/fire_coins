@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.js": "/fire_coins/static/js/main.14121536.chunk.js",
-    "main.js.map": "/fire_coins/static/js/main.14121536.chunk.js.map",
+    "main.js": "/fire_coins/static/js/main.1da49c05.chunk.js",
+    "main.js.map": "/fire_coins/static/js/main.1da49c05.chunk.js.map",
     "runtime-main.js": "/fire_coins/static/js/runtime-main.35f42425.js",
     "runtime-main.js.map": "/fire_coins/static/js/runtime-main.35f42425.js.map",
     "static/css/2.85b3d357.chunk.css": "/fire_coins/static/css/2.85b3d357.chunk.css",
-    "static/js/2.171607ad.chunk.js": "/fire_coins/static/js/2.171607ad.chunk.js",
-    "static/js/2.171607ad.chunk.js.map": "/fire_coins/static/js/2.171607ad.chunk.js.map",
+    "static/js/2.52d0bd42.chunk.js": "/fire_coins/static/js/2.52d0bd42.chunk.js",
+    "static/js/2.52d0bd42.chunk.js.map": "/fire_coins/static/js/2.52d0bd42.chunk.js.map",
     "static/js/3.3a3419f3.chunk.js": "/fire_coins/static/js/3.3a3419f3.chunk.js",
     "static/js/3.3a3419f3.chunk.js.map": "/fire_coins/static/js/3.3a3419f3.chunk.js.map",
     "static/js/4.b5579c6c.chunk.js": "/fire_coins/static/js/4.b5579c6c.chunk.js",
     "static/js/4.b5579c6c.chunk.js.map": "/fire_coins/static/js/4.b5579c6c.chunk.js.map",
     "index.html": "/fire_coins/index.html",
-    "precache-manifest.690694281a9220555071dfead1a80555.js": "/fire_coins/precache-manifest.690694281a9220555071dfead1a80555.js",
+    "precache-manifest.f6be99a47f8485d270688edf566a2764.js": "/fire_coins/precache-manifest.f6be99a47f8485d270688edf566a2764.js",
     "service-worker.js": "/fire_coins/service-worker.js",
     "static/css/2.85b3d357.chunk.css.map": "/fire_coins/static/css/2.85b3d357.chunk.css.map",
-    "static/js/2.171607ad.chunk.js.LICENSE.txt": "/fire_coins/static/js/2.171607ad.chunk.js.LICENSE.txt",
+    "static/js/2.52d0bd42.chunk.js.LICENSE.txt": "/fire_coins/static/js/2.52d0bd42.chunk.js.LICENSE.txt",
     "static/js/3.3a3419f3.chunk.js.LICENSE.txt": "/fire_coins/static/js/3.3a3419f3.chunk.js.LICENSE.txt",
     "static/media/fire_coin.png": "/fire_coins/static/media/fire_coin.aec37865.png"
   },
   "entrypoints": [
     "static/js/runtime-main.35f42425.js",
     "static/css/2.85b3d357.chunk.css",
-    "static/js/2.171607ad.chunk.js",
-    "static/js/main.14121536.chunk.js"
+    "static/js/2.52d0bd42.chunk.js",
+    "static/js/main.1da49c05.chunk.js"
   ]
 }
