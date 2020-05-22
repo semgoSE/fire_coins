@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59f8167adb400ab0a952f7baa5806f74",
+    "revision": "4a68eb014cec91f136575dc90ea61b43",
     "url": "/fire_coins/index.html"
   },
   {
-    "revision": "36d5795514655316bdc4",
+    "revision": "b04803c5df39bc68e087",
     "url": "/fire_coins/static/css/2.85b3d357.chunk.css"
   },
   {
-    "revision": "990376df236f06cb1443",
+    "revision": "51c664222d228053e5fb",
     "url": "/fire_coins/static/css/main.a5fd9cb2.chunk.css"
   },
   {
-    "revision": "36d5795514655316bdc4",
-    "url": "/fire_coins/static/js/2.6a45094e.chunk.js"
+    "revision": "b04803c5df39bc68e087",
+    "url": "/fire_coins/static/js/2.8096ee47.chunk.js"
   },
   {
     "revision": "856e5e5c43e9ba9e57bcfc003b0ac737",
-    "url": "/fire_coins/static/js/2.6a45094e.chunk.js.LICENSE.txt"
+    "url": "/fire_coins/static/js/2.8096ee47.chunk.js.LICENSE.txt"
   },
   {
     "revision": "f3caac00c9bfdc541a64",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fire_coins/static/js/4.82bc0ccf.chunk.js"
   },
   {
-    "revision": "990376df236f06cb1443",
-    "url": "/fire_coins/static/js/main.b984cd81.chunk.js"
+    "revision": "51c664222d228053e5fb",
+    "url": "/fire_coins/static/js/main.25986698.chunk.js"
   },
   {
     "revision": "ee3c265e8810c658ef88",
