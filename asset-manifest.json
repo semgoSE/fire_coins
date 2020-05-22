@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fire_coins/static/css/main.a5fd9cb2.chunk.css",
-    "main.js": "/fire_coins/static/js/main.551ce0ff.chunk.js",
-    "main.js.map": "/fire_coins/static/js/main.551ce0ff.chunk.js.map",
+    "main.js": "/fire_coins/static/js/main.5c3d1cfe.chunk.js",
+    "main.js.map": "/fire_coins/static/js/main.5c3d1cfe.chunk.js.map",
     "runtime-main.js": "/fire_coins/static/js/runtime-main.06365005.js",
     "runtime-main.js.map": "/fire_coins/static/js/runtime-main.06365005.js.map",
     "static/css/2.85b3d357.chunk.css": "/fire_coins/static/css/2.85b3d357.chunk.css",
@@ -13,7 +13,7 @@
     "static/js/4.7ff212de.chunk.js": "/fire_coins/static/js/4.7ff212de.chunk.js",
     "static/js/4.7ff212de.chunk.js.map": "/fire_coins/static/js/4.7ff212de.chunk.js.map",
     "index.html": "/fire_coins/index.html",
-    "precache-manifest.841eb782e1730f69ed2b7977fcaf8885.js": "/fire_coins/precache-manifest.841eb782e1730f69ed2b7977fcaf8885.js",
+    "precache-manifest.5b5be83fae0674ddcfa47ddc4caec993.js": "/fire_coins/precache-manifest.5b5be83fae0674ddcfa47ddc4caec993.js",
     "service-worker.js": "/fire_coins/service-worker.js",
     "static/css/2.85b3d357.chunk.css.map": "/fire_coins/static/css/2.85b3d357.chunk.css.map",
     "static/css/main.a5fd9cb2.chunk.css.map": "/fire_coins/static/css/main.a5fd9cb2.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.85b3d357.chunk.css",
     "static/js/2.4ea4b7fc.chunk.js",
     "static/css/main.a5fd9cb2.chunk.css",
-    "static/js/main.551ce0ff.chunk.js"
+    "static/js/main.5c3d1cfe.chunk.js"
   ]
 }
