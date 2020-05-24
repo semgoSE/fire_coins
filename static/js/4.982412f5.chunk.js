@@ -1,2 +1,0 @@
-(this.webpackJsonpfire_coins=this.webpackJsonpfire_coins||[]).push([[4],{274:function(i,s,n){"use strict";n.r(s);var t=n(271),a=n(272),c=n(273);t.init(),t.add(a),t.add(c),s.default=t}}]);
-//# sourceMappingURL=4.982412f5.chunk.js.map
